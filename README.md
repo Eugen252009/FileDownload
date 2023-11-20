@@ -25,3 +25,10 @@ cd node/js
 node index.js
 ts-node index.ts
 ```
+
+
+BASH
+```bash
+cd bash
+./downloader.sh
+```

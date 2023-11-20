@@ -13,3 +13,15 @@ cd cpp
 make
 make run
 ```
+Javascript/Typescript
+```bash
+//Typescript
+cd node/ts
+ts-node index.ts
+
+
+//Javascript
+cd node/js
+node index.js
+ts-node index.ts
+```

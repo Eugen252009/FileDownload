@@ -1,2 +1,2 @@
 #! /bin/bash
-curl https://lupricht.net/picture.jpg > picture.jpg
+curl "https://lupricht.net/picture.jpg" > picture.jpg
